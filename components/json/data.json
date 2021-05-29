@@ -1,0 +1,56 @@
+[
+    {
+        "image": "./Group2.svg",
+        "text1": "BECOME MORE",
+        "text2": "Confident  & Charismatic in 30 days",
+        "text3": "...or your money back.",
+        "text4": "Actionable,habit-based charisma training.",
+        "thinkyoutube_image": "./image4.png",
+        "thinkyoutube_mainHeading": "Think the YouTube videos are great?",
+        "thinkyoutube_paragraph": "Glad you think so! But just wait till you check out Charisma University.",
+        "thinkyoutube_sub_heading": "Here’s what makes CU different:",
+        "ThinkyoutubeData": [
+            {
+                "key": 1,
+                "thinkyoutube_box_heading": "PROVEN, ACTION FOCUSED CURRICULUM",
+                "thinkyoutube_box_paragraph": "You'll know exactly where to start and what to do next. Daily action items ensure your Charisma transforms."
+            },
+            {
+                "key": 2,
+                "thinkyoutube_box_heading": "EXCLUSIVE CONTENT",
+                "thinkyoutube_box_paragraph": "Techniques, tactics and excercise not available anywhere else the trun charisma into unthinking habit."
+            },
+            {
+                "key": 3,
+                "thinkyoutube_box_heading": "COMMUNITY",
+                "thinkyoutube_box_paragraph": "Learn and grow with peers. A charisma is also there to give direct support and answer questions."
+            },
+            {
+                "key": 4,
+                "thinkyoutube_box_heading": "RESULT GUARANTEE",
+                "thinkyoutube_box_paragraph": "You're guarantee to get result you are happy with. if you aren't satisfied. You can get 100% of your money back."
+            }
+        ],
+        "countStart": 0,
+        "countEnd": 5000,
+        "reviewstartCount": 0,
+        "reviewEndCount": 1969,
+        "key": 222222,
+        "lifeboxData": [
+            {
+                "lifeboxHeading": "Truly changed my life",
+                "lifeboxpara": "In 6 weeks, I went from being a socially awkward student with few friends to a magnetic presence that is the life of every event that I attend.",
+                "name": "Chase S.",
+                "key":1122551,
+                "lifeimg": "./Rectangle16.png"
+            },
+            {
+                "lifeboxHeading": "I find myself looking forward to making conversations... Crazy, I know.",
+                "lifeboxpara": "Right now I am in the middle of my internship and am getting ready to talk to recruiters about job opportunities next week. Whenever someone ask me about my greatest accomplishment I always tell them about my journey with CharismaU, and boy were they impressed every single time!",
+                "name": "Linh T.",
+                "key":1122554441,
+                "lifeimg": "./Rectangle16.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.heroImage{
+    background-image: url('../public/Group3.svg');
+    width: 100%;
+    height: 90vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.heroFlex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+
+.bookimg{
+    width: 70%;
+    line-height: 100vh;
+    margin: auto;
+    border-radius: 25px 0 45px 0;
+}
+.bookHeading{
+    width: 40%;
+}
+.first_heading{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: #414141;
+    margin: 0;
+}
+
+.second_Heading{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    width: 80%;
+    font-size: 52px;
+    color: #F6F6F6;
+    margin: 0;
+
+}
+.third_Heading{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    color: #C4C4C4;
+}
+.Fourth_Heading{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    color: #C4C4C4;
+}
+.thinkyoutube_container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.thinkyoutube_mainHeading{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 59px;
+    line-height: 76px;
+    color: #000000;
+    
+}
+.thinkyoutube_image{
+    width: 90%;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    
+}
+.thinkyoutube_size{
+    width: 53%;
+    margin: auto;
+}
+.thinkyoutube_paragraph{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    color: #000000bb;
+    width: 60%;
+}
+.thinkyoutube_sub_heading{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 30px;
+    color: #000000;
+    
+}
+.thinkyoutbe_box{
+    width: 80%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 20px;
+    margin: 0;
+    margin-bottom: 20px;
+}
+.thinkyoutube_box_heading{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: #000000;
+}
+.thinkyoutube_box_paragraph{
+    font-family: Montserrat;
+    font-style: normal;
+    font-size: 15px;
+    color: #00000057;
+
+}
+.count{
+    background-color:transparent;
+    background-image: radial-gradient(at center center, #38373C 0%, #151515 100%);
+    width: 80%;
+    border-radius: 25px 0 25px 0;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.iconuser{
+    margin: auto;
+    color: yellow;
+}
+.countup{
+    font-size: 25px !important;
+    font-weight: bold !important;
+    display: block !important;
+}
+.count2{
+    background-color:transparent;
+    background-image: radial-gradient(at center center, #38373C 0%, #151515 100%);
+    width: 80%;
+    border-radius: 0 25px 0 25px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.bgs{
+    width: 90%;
+    margin-top: 20px;
+}
+.bgss{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bgsss{
+    display: flex;
+    align-items: center;
+    margin: auto;
+
+}
+.life_box{
+    background: #FFFFFF;
+    box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+.life_box > h4{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 21px;
+    color: #000000;
+}
+.life_box > p{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 25px;
+}
+.skill-container{
+    width: 100%;
+    background-color: transparent;
+    /* background-image: radial-gradient(at center center, #38373C 0%, #151515 82%); */
+    background: radial-gradient(50% 50% at 50% 50%, #2D2C2C 0%, #000000 100%);
+}
+.skill_box{
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.skill_box >h2{
+    font-family: Inter, Sans-serif;
+    font-size: 44px;
+    font-weight: 800;
+    line-height: 1.2em;
+    letter-spacing: 1.3px;
+    color: white;
+}
+
+.borderskill{
+    border-bottom: 2px solid #FFB901;
+    padding-bottom: 20px;
+}
+.skillFlex{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
