@@ -1,7 +1,7 @@
 import React from 'react'
 import { CloseOutlined } from '@ant-design/icons';
 import Catagory from './Catagory'
-const Skill = () => {
+const Skill = ({newData}) => {
     return (
         <div className="skill-container">
             <div className="skill_box">
@@ -18,7 +18,7 @@ const Skill = () => {
                     </div>
                 </div>
             </div>
-            <Catagory />
+            <Catagory newData={newData} />
         </div>
     )
 }
