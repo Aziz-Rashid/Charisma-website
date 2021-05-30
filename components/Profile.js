@@ -51,6 +51,9 @@ const Profile = () => {
                     </div>
                 </div>
             </div>
+            <div className={togle === true ? "mar_botom" : "mar_botom2"}>
+                <h1 className="baner_color">I saw that charisma was not a fixed trait, like height or eye color. <span className="heighlight">I <span className="heig">learned that charisma</span> is a skill.</span></h1>
+            </div>
         </div>
     )
 }
