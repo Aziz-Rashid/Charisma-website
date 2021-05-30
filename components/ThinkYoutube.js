@@ -13,7 +13,7 @@ const ThinkYoutube = ({ newData }) => {
                         <img className="thinkyoutube_image" src={el.thinkyoutube_image} alt="no image" />
                     </div>
                     <div className="thinkyoutube_size">
-                        <h3 className="thinkyoutube_mainHeading">{el.thinkyoutube_mainHeading}</h3>
+                        <p className="thinkyoutube_mainHeading">{el.thinkyoutube_mainHeading}</p>
                         <p className="thinkyoutube_paragraph">{el.thinkyoutube_paragraph} </p>
                         <p className="thinkyoutube_sub_heading">{el.thinkyoutube_sub_heading}</p>
                         {el.ThinkyoutubeData.map((data) => (

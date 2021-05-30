@@ -1,6 +1,8 @@
 import 'antd/dist/antd.css';
 import '../styles/global.css'
 import '../styles/responsive.css'
+import '../styles/mobile.css'
+
 function MyApp({ Component, pageProps }) {
     return <Component {...pageProps} />
   }

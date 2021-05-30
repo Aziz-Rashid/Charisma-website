@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
-
-@media screen and (max-width: 1050px) and (min-width: 600px) {
+@media screen and (max-width: 600px) and (min-width: 200px) {
     .heroImage{
         background-image: url('../public/Group3.svg');
         width: 100%;
@@ -20,27 +19,27 @@
         text-align: center;
         display: block;
         padding-top: 130px;
+        display: none;
     }
     .bookHeading{
         width: 100%;
-        padding-top: 80px;
+        padding-top: 120px;
     }
     .first_heading{
         font-family: Montserrat;
         font-style: normal;
         font-weight: normal;
-        font-size: 28px;
+        font-size: 15px;
         color: #414141;
         margin: 0;
         text-align: center;
-        padding-bottom: 20px;
+        padding-bottom: 30px;
     }
-    
     .second_Heading{
         font-family: Inter;
         font-style: normal;
         font-weight: bold;
-        font-size: 32px;
+        font-size: 24px;
         color: #F6F6F6;
         width: 100%;
         text-align: center;
@@ -50,7 +49,7 @@
         font-family: Montserrat;
         font-style: normal;
         font-weight: 600;
-        font-size: 17px;
+        font-size: 15px;
         color: #C4C4C4;
         text-align: center;
         padding-bottom: 20px;
@@ -59,9 +58,11 @@
         font-family: Montserrat;
         font-style: normal;
         font-weight: 600;
-        font-size: 17px;
+        font-size: 15px;
         color: #C4C4C4;
         text-align: center;
+        width: 80%;
+        margin: auto;
 
     }
     .thinkyoutube_container{
@@ -74,15 +75,12 @@
         font-family: Inter;
         font-style: normal;
         font-weight: bolder;
-        font-size: 28px;
+        font-size: 25px;
         text-align: center;
         color: #000000;
     }
     .thinkyoutube_image{
         width: 90%;
-        position: -webkit-sticky;
-        position: sticky;
-        top: 0;
     }
     .thinkyoutube_size{
         width: 90%;
@@ -92,8 +90,8 @@
         font-family: Montserrat;
         font-style: normal;
         font-weight: 600;
-        font-size: 15px;
-        color: #000000bb;
+        font-size: 13px;
+        color: #000000;
         width: 80%;
         margin: auto;
         padding-bottom: 20px;
@@ -102,13 +100,13 @@
         font-family: Montserrat;
         font-style: normal;
         font-weight: bold;
-        font-size: 17px;
+        font-size: 15px;
         color: #000000;
         padding-bottom: 20px;
         
     }
     .thinkyoutbe_box{
-        width: 90%;
+        width: 95%;
         box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
         padding: 20px;
         margin: auto;
@@ -120,13 +118,14 @@
         font-weight: bold;
         font-size: 15px;
         color: #000000;
+        
     }
     .thinkyoutube_box_paragraph{
         font-family: Montserrat;
         font-style: normal;
-        font-size: 15px;
+        font-size: 12px;
         color: #00000057;
-    
+        text-align: justify;
     }
     .count{
         background-color:transparent;
@@ -164,7 +163,7 @@
 
 
     .bgs{
-        width: 90%;
+        width: 95%;
         margin-top: 20px;
     }
     .bgss{
@@ -191,16 +190,14 @@
         font-family: Inter;
         font-style: normal;
         font-weight: bold;
-        font-size: 17px;
-        line-height: 21px;
+        font-size: 14px;
         color: #000000;
     }
     .life_box > p{
         font-family: Montserrat;
         font-style: normal;
         font-weight: normal;
-        font-size: 17px;
-        line-height: 25px;
+        font-size: 14px;
     }
     .skill-container{
         width: 100%;
@@ -216,9 +213,8 @@
     }
     .skill_box >h2{
         font-family: Inter, Sans-serif;
-        font-size: 28px;
+        font-size: 19px;
         font-weight: 800;
-        line-height: 1.2em;
         letter-spacing: 1.3px;
         color: white;
     }
@@ -230,27 +226,33 @@
         display: block;
         justify-content: space-around;
         padding-top: 40px;
-        width: 80%;
+        width: 90%;
         margin: auto;
+    }
+    .skillsss{
+        font-size: 15px !important;
+    }
+    .sigm{
+        font-size: 15px !important;
     }
     .catagory_conatiner{
         font-family: "Inter", Sans-serif;
-        font-size: 28px;
+        font-size: 21px;
         font-weight: 800;
         color: white;
     }
     
     .skill_box2{
         text-align: center;
-        width: 80%;
+        width: 90%;
         margin: auto;
-        padding-top: 50px;
-        padding-bottom: 50px;
+        padding-top: 20px;
+        padding-bottom: 20px;
     }
     .catagory_flex{
         display: flex;
         justify-content: space-between;
-        width: 65%;
+        width: 100%;
         margin: auto;
         padding-bottom: 20px;
         flex-wrap: wrap;
@@ -260,7 +262,7 @@
 
 
 .catagory_flex_hover{
-    width: 80%;
+    width: 90%;
     margin: auto;
     background: black;
     margin-bottom:20px;
@@ -279,6 +281,7 @@
 }
 .para_cont{
     color: white;
+    font-size: 12px;
 }
 .largegroup{
     color: white;
@@ -306,7 +309,7 @@
 .btn-para{
     background-color: white;
     color: black;
-    width: 80%;
+    width: 90%;
     margin: auto;
     padding: 10px 0;
     text-align: center;
@@ -322,8 +325,8 @@
     color: black;
     width: 80%;
     margin: auto;
-    padding: 10px 0;
-    text-align: center;
+    padding: 20px;
+    text-align: justify;
 }
 .paragraphs{
     width: 100%;
@@ -337,7 +340,7 @@
     width: 100%;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     border-radius: 15px 0px 15px 0px;
-    padding: 40px;
+    padding: 20px;
     height: auto;
     margin-bottom: 20px;
 }
@@ -347,7 +350,6 @@
     font-weight: normal;
     font-size: 15px;
     color: #000000;
-    text-align: justify;
     
 }
 .box-pra3{
@@ -363,7 +365,7 @@
     font-family: Inter;
     font-style: normal;
     font-weight: bolder;
-    font-size: 28px;
+    font-size: 18px;
     color: #000000;
     text-align: justify;
 
@@ -395,6 +397,7 @@
 }
 .new{
     width: 100%;
+    margin-top: 69px;
 }
 .markgroup{
     width: 90%;
@@ -413,21 +416,21 @@
     font-family: Inter;
     font-style: normal;
     font-weight: bold;
-    font-size: 32px;
+    font-size: 28px;
     color: black;
 }
 .charlie_para{
     font-family: Montserrat;
     font-style: normal;
     font-weight: normal;
-    font-size: 17px;
+    font-size: 13px;
     color: black;
 }
 .charlie_para2{
     font-family: Montserrat;
     font-style: normal;
     font-weight: normal;
-    font-size: 17px;
+    font-size: 13px;
     line-height: 25px;
     color: black;
 }
@@ -436,9 +439,11 @@
     background-color: transparent;
     border: none;
     outline: none;
-    width: 80%;
+    width: 90%;
     padding: 5px;
     border: 1px solid #E3B002;
+    margin: auto;
+    display: block;
     margin-top: 10px;
     margin-bottom: 20px;
 }
@@ -446,21 +451,21 @@
     width: 90%;
     background-color: white;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-    padding: 30px;
+    padding: 20px;
     margin: auto;
 }
 .boxx1{
     font-family: Inter;
     font-style: normal;
     font-weight: 900;
-    font-size: 32px;
+    font-size: 20px;
     color: #000000;
 }
 .boxx2{
     font-family: Montserrat;
     font-style: normal;
     font-weight: normal;
-    font-size: 17px;
+    font-size: 13px;
     line-height: 25px;
     color: #000000;
 }
@@ -468,7 +473,7 @@
     font-family: Montserrat;
     font-style: normal;
     font-weight: normal;
-    font-size: 17px;
+    font-size: 13px;
     line-height: 25px;
     color: #000000;
 }
@@ -476,7 +481,7 @@
     font-family: Montserrat;
     font-style: italic;
     font-weight: 500;
-    font-size: 17px;
+    font-size: 16px;
     line-height: 25px;
     color: #000000;
     border-left: 4px solid #E3B002;
@@ -486,7 +491,7 @@
     font-family: Inter;
     font-style: normal;
     font-weight: bold;
-    font-size: 28px;
+    font-size: 20px;
     color: #000000;
 }
 
@@ -518,26 +523,27 @@
     color: #000000;
 }
 .mar_botom{
-    margin-top: 1250px;
+    margin-top: 1450px;
     background: radial-gradient(50% 50% at 50% 50%, #2D2C2C 0%, #000000 100%);
     width: 100%;
     height: 250px;
 }
 .mar_botom2{
-    margin-top: 1300px;
+    margin-top: 1080px;
     background: radial-gradient(50% 50% at 50% 50%, #2D2C2C 0%, #000000 100%);
     width: 100%;
-    height: 250px;
+    height: auto;
 }
 .baner_color{
     font-family: Inter;
     color: white;
     text-align: center;
-    width: 80%;
+    width: 90%;
     margin: auto;
-    padding-top: 70px;
+    padding-top: 50px;
     font-weight: 900;
-
+    font-size: 18px;
+    padding-bottom: 50px;
 }
 .heighlight{
     color: #E3B002;
@@ -549,7 +555,7 @@
 }
 .b-ner{
     width: 100%;
-    padding: 50px;
+    padding: 30px 10px;
 }
 .b-ners{
     width: 90%;
@@ -557,7 +563,7 @@
     font-family: Montserrat;
     font-style: normal;
     font-weight: normal;
-    font-size: 17px;
+    font-size: 13px;
     line-height: 25px;
     color: #000000;
     padding-bottom: 20px;
@@ -569,7 +575,7 @@
     font-family: Inter;
     font-style: normal;
     font-weight: bolder;
-    font-size: 25px;
+    font-size: 18px;
     color: #000000;
     border-left: 3px solid #E3B002;
     padding-left: 25px;
@@ -584,16 +590,16 @@
     padding: 40px;
 }
 .banners_heading{
-    width: 90%;
+    width: 100%;
     margin: auto;
     font-family: Inter;
     font-style: normal;
     font-weight: bold;
-    font-size: 28px;
+    font-size: 20px;
     line-height: 42px;
     text-align: center;
     color: #F6F6F6;
-    padding-bottom: 40px;
+    padding-bottom: 15px;
 }
 .masive{
     color: #E3B002;
@@ -603,13 +609,10 @@
 .banners_subHeading{
     width: 100%;
     color: white;
-    text-align: center;
     font-family: Inter;
     font-style: normal;
     font-weight: bold;
-    font-size: 28px;
-    line-height: 42px;
-    margin-top: 20px;
+    font-size: 17px;
     text-align: center;
 }
 .bulletpoint{
@@ -617,20 +620,20 @@
     font-family: Montserrat;
     font-style: normal;
     font-weight: normal;
-    font-size: 19px;
+    font-size: 13px;
     line-height: 25px;
     color: white;
     padding-bottom: 20px;
     margin: auto;
 }
 .bullet_para{
-    width: 90%;
+    width: 100%;
     margin: auto;
     color: white;
     font-family: Montserrat;
     font-style: normal;
     font-weight: normal;
     text-align: center;
-    font-size: 19px;
+    font-size: 12px;
 }
 }
