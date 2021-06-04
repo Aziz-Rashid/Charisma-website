@@ -1,5 +1,6 @@
 import React from 'react'
-
+import ClearIcon from '@material-ui/icons/Clear';
+import DoneIcon from '@material-ui/icons/Done';
 const Banner = ({ newData }) => {
     return (
         <div>
@@ -21,26 +22,57 @@ const Banner = ({ newData }) => {
                     <div className="banners_box">
                         <h1 className="banners_heading">{data.Relationships} <span className="masive">{data.masive}</span> {data.Relationships2}</h1>
                         <h4 className="banners_subHeading">{data.name}</h4>
-                        <p className="bulletpoint">{data.bullet1}</p>
-                        <p className="bulletpoint">{data.bullet2}</p>
-                        <p className="bulletpoint">{data.bullet3}</p>
+                        <p className="bulletpoint"><DoneIcon className="doneSign" />{data.bullet1}</p>
+                        <p className="bulletpoint"><DoneIcon className="doneSign" />{data.bullet2}</p>
+                        <p className="bulletpoint"><DoneIcon className="doneSign" />{data.bullet3}</p>
                         <p className="bullet_para">{data.para}</p>
                     </div>
                 ))
             ))}
             <div className="containers_block">
-                <div className="containers_block2">
-                <h2 className="conatiener">I want to show you how to create the relationships, friendships, and life you’ve always dreamed of.</h2>
-                <div className="conatiners_box">
-                    <h4 className="parag">Let me paint you a picture:</h4>
-                    <p className="parag2">You’re that person with their chest up, head held high.</p>
-                    <p className="parag3">You easily speak through a smile… you always seem to know exactly what to say.</p>
-                    <p className="parag4">You have the confidence to walk up and introduce yourself or strike up a conversation with anyone… and you leave them thinking:</p>
-                    <p className="parag5">"Wow... I need to see them again"</p>
-                </div>
+                {newData.map(el => (
+                    el.containerBlock.map(data => (
+                        <div className="containers_block2">
+                            <h2 className="conatiener">{data.heading}</h2>
+                            <div className="conatiners_box">
+                                <h4 className="parag">{data.name}</h4>
+                                <p className="parag2">{data.name2}</p>
+                                <p className="parag3">{data.name3}</p>
+                                <p className="parag4">{data.name4}</p>
+                                <p className="parag5">"{data.name5}"</p>
+                            </div>
+                            <p className="bnr">{data.name6}</p>
+                            <p className="bnr2">{data.name7}</p>
+                            <p className="bnr3">{data.name8} <b>{data.namebold}</b></p>
+                            <p className="bnr4">{data.name10}</p>
+                            <p className="bnr5">{data.name11}</p>
+                        </div>
+                    ))
+                ))}
+            </div>
+            <div className="nm">
+                <div className="nm2">
+                    <h2 className="nm3">There's an <span className="imp"> important</span> truth your parents probably didn't tell you <span className="grow">growing up</span></h2>
                 </div>
             </div>
-
+            {newData.map(el => (
+                el.BannersData.map(data => (
+                    <div className="grow">
+                        <div className="grow2">
+                            <h2 className="growHeading">{data.heading}</h2>
+                            <p className="boxx8">{data.para1}</p>
+                            <p className="bnr4"><DoneIcon style={{ fontWeight: 'bold',  color: 'white', marginRight: '10px', background: 'green', borderRadius: '25px' }} />{data.bullet1}</p>
+                            <p className="bnr4"><ClearIcon style={{ fontWeight: 'bold', color: 'white', marginRight: '10px', background: 'red', borderRadius: '25px' }} />{data.bullet2}</p>
+                            <p className="bnr4"><ClearIcon style={{ fontWeight: 'bold', color: 'white', marginRight: '10px', background: 'red', borderRadius: '25px' }} />{data.bullet3}</p>
+                            <p className="bnr4"><ClearIcon style={{ fontWeight: 'bold', color: 'white', marginRight: '10px', background: 'red', borderRadius: '25px' }} />{data.bullet4}</p>
+                            <p className="boxx8">{data.paras}</p>
+                            <p className="boxx8"><b>{data.para2bold}</b>{data.para2}</p>
+                            <p className="boxx8">{data.para4}</p>
+                            <h3 className="hh">{data.lastHead}</h3>
+                        </div>
+                    </div>
+                ))
+            ))}
         </div>
     )
 }

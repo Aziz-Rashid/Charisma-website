@@ -5,7 +5,7 @@
         "text2": "Confident  & Charismatic in 30 days",
         "text3": "...or your money back.",
         "text4": "Actionable,habit-based charisma training.",
-        "thinkyoutube_image": "./image4.png",
+        "thinkyoutube_image": "./image4.svg",
         "thinkyoutube_mainHeading": "Think the YouTube videos are great?",
         "thinkyoutube_paragraph": "Glad you think so! But just wait till you check out Charisma University.",
         "thinkyoutube_sub_heading": "Here’s what makes CU different:",
@@ -42,30 +42,276 @@
                 "lifeboxpara": "In 6 weeks, I went from being a socially awkward student with few friends to a magnetic presence that is the life of every event that I attend.",
                 "name": "Chase S.",
                 "key":1122551,
-                "lifeimg": "./Rectangle16.png"
+                "lifeimg": "./photo1.PNG"
             },
             {
                 "lifeboxHeading": "I find myself looking forward to making conversations... Crazy, I know.",
                 "lifeboxpara": "Right now I am in the middle of my internship and am getting ready to talk to recruiters about job opportunities next week. Whenever someone ask me about my greatest accomplishment I always tell them about my journey with CharismaU, and boy were they impressed every single time!",
                 "name": "Linh T.",
                 "key":1122554441,
-                "lifeimg": "./Rectangle16.png"
+                "lifeimg": "./photo2.PNG"
             }
         ],
         "catagoryData": [
-            {"catagoryImg": "./clarity_group-solid.png","CatagoryName": "Large Groups","catagoryText": "“I’ve always been bad at expressing myself in situations that weren’t one on one. After CU I am now WAY more confident in saying what I think and how I feel even in bigger group settings.”","catagoryButtonName": "Group Confidence...","key":225544788},
-            {"catagoryImg": "./promotions 1.png","CatagoryName": "Asking for a promotion","catagoryText": "The biggest way this program has helped me is by getting a big promotion… I went through 3 rounds of interviews competing against other people in their 30s and 40s. And by the end of it, they chose me, a 22-year-old, to fill the role. The new role comes with prestige, company stock options, and a raise to go with it.","catagoryButtonName": "Jumping to help...","key":2255554454444788},
-            {"catagoryImg": "./fluent_handshake-24-filled.png","CatagoryName": "Making deals or sales","catagoryText": "I can feel my life changing as we speak. I just had a 1 hour long casual conversation with a client… I actually felt a deeper connection, simply because I had responded to her in the correct way.I walked away feeling touched that, whoa.. connections with humans feel awesome. I wish I had this course way earlier.","catagoryButtonName": "Talking with a Client...","key":225544444788},
-            {"catagoryImg": "./work-team-of-two-men 1.png","CatagoryName": "Talking to gorgeous individuals","catagoryText": "“You have helped me grow in to a better more confident man. I spoke to a girl the other day half way through our conversation she interrupted me and told me I’m the realist person she has ever spoken to, not only that she told me she felt this warm sensation of being in the presence of a real man. Needless to say I left with her number ;)","catagoryButtonName": "I Left with her number...","key":22554478585858},
-            {"catagoryImg": "./promotions 1.png","CatagoryName": "Asking for a promotion","catagoryText": "The biggest way this program has helped me is by getting a big promotion… I went through 3 rounds of interviews competing against other people in their 30s and 40s. And by the end of it, they chose me, a 22-year-old, to fill the role. The new role comes with prestige, company stock options, and a raise to go with it.","catagoryButtonName": "Jumping to help...","key":225555544788},
-            {"catagoryImg": "./briefcase 1.png","CatagoryName": "Making Deals or Sales","catagoryText": "My plan is to focus on starting my next business, and really grow it for the next 5-10 years before I sell it. More importantly, I’m going to focus on becoming the best leader I can be. And I know what I’ve learned in this program is going to help me do it.","catagoryButtonName": "Serial Enterpreniorship","key":22544544788}
+            {"catagoryImg": "./clarity_group-solid.svg","CatagoryName": "Large Groups","catagoryText": "“I’ve always been bad at expressing myself in situations that weren’t one on one. After CU I am now WAY more confident in saying what I think and how I feel even in bigger group settings.”","catagoryButtonName": "Group Confidence...","key":225544788},
+            {"catagoryImg": "./promotions 1.svg","CatagoryName": "Asking for a promotion","catagoryText": "The biggest way this program has helped me is by getting a big promotion… I went through 3 rounds of interviews competing against other people in their 30s and 40s. And by the end of it, they chose me, a 22-year-old, to fill the role. The new role comes with prestige, company stock options, and a raise to go with it.","catagoryButtonName": "Jumping to help...","key":2255554454444788},
+            {"catagoryImg": "./fluent_handshake-24-filled.svg","CatagoryName": "Making deals or sales","catagoryText": "I can feel my life changing as we speak. I just had a 1 hour long casual conversation with a client… I actually felt a deeper connection, simply because I had responded to her in the correct way.I walked away feeling touched that, whoa.. connections with humans feel awesome. I wish I had this course way earlier.","catagoryButtonName": "Talking with a Client...","key":225544444788},
+            {"catagoryImg": "./work-team-of-two-men 1.svg","CatagoryName": "Talking to gorgeous individuals","catagoryText": "“You have helped me grow in to a better more confident man. I spoke to a girl the other day half way through our conversation she interrupted me and told me I’m the realist person she has ever spoken to, not only that she told me she felt this warm sensation of being in the presence of a real man. Needless to say I left with her number ;)","catagoryButtonName": "I Left with her number...","key":22554478585858},
+            {"catagoryImg": "./promotions 1.svg","CatagoryName": "Asking for a promotion","catagoryText": "The biggest way this program has helped me is by getting a big promotion… I went through 3 rounds of interviews competing against other people in their 30s and 40s. And by the end of it, they chose me, a 22-year-old, to fill the role. The new role comes with prestige, company stock options, and a raise to go with it.","catagoryButtonName": "Jumping to help...","key":225555544788},
+            {"catagoryImg": "./briefcase 1.svg","CatagoryName": "Making Deals or Sales","catagoryText": "My plan is to focus on starting my next business, and really grow it for the next 5-10 years before I sell it. More importantly, I’m going to focus on becoming the best leader I can be. And I know what I’ve learned in this program is going to help me do it.","catagoryButtonName": "Serial Enterpreniorship","key":22544544788}
         ],
         "bannersData": [
             {"paragraph1": "That realization was empowering. I realized I could DO something about this. I wasn’t “doomed” to be awkward and forgettable forever." ,"paragraph2": "I became obsessed with studying the science of charisma." ,"paragraph3": "It became not only an obsession, but a hobby. Practicing the specific skills of charisma became fun… almost addicting." ,"key": 44444441,"heading4": "Everything started to come naturally. Eventually, I could flip a switch and feel “on”, no matter what the situation was." ,"paragraph5": "Starting a conversation with anyone I saw, no matter how beautiful, powerful or important, started to become… easy." ,"paragraph6": "Being able to create amazing relationships with the mentors you admire or the jaw-dropping special someone you want to date – that kind of superpower instantly changes your life." ,"paragraph7": "As my life grew from dissatisfaction to a living dream, I noticed a simple truth again and again…"}
         ],
         "bannerBox": [
             {"Relationships" : "Relationships", "Relationships2": "impact the quality of your life","masive": "MASSIVELY","name": "Relationships control your:","bullet1": "success in business","bullet2": "success with dating","bullet3": "ability to materialize a larger vision","para": "…success in these all comes down to the quality of the relationships in your life, and your ability to create amazing new ones on command."}
-        ]
+        ],
+        "containerBlock": [
+            {"heading": "I want to show you how to create the relationships, friendships, and life you’ve always dreamed of.",
+                "name":"Let me paint you a picture:",
+                "name2":"You’re that person with their chest up, head held high.",
+                "name3":"You easily speak through a smile… you always seem to know exactly what to say.",
+                "name4":"You have the confidence to walk up and introduce yourself or strike up a conversation with anyone… and you leave them thinking:",
+                "name5":"Wow... I need to see them again",
+                "name6": "Since the early days of studying charisma, my co-founder Ben and I have been invited to speak in front of thousands of people.",
+                "name7": "We’ve gone to entrepreneur masterminds with some of the best under 30 entrepreneurs on the planet and left with lifelong connections.",
+                "name8": "And when I see a beautiful woman I’d like to get to know, whether it’s in the club, on the street, in the store, it doesn’t matter –",
+                "namebold": "I know I can make an incredible impression.",
+                "name10": "How did a normal guy, voted the shyest person in his graduating class in high school do all this?",
+                "name11": "Well, it did require hard work, but “working hard” was never the goal, nor the answer."
+            
+            }
+        ],
+        "BannersData": [
+            {
+            "heading": "Did you grow up thinking hard work determines success?",
+            "para1": "Let’s think about it. Do you know anyone who:",
+            "bullet1": "works 40, 50, or 60 hours / week, and...",
+            "bullet2":"is NOT enjoying life with their dream partner?",
+            "bullet3":"is NOT doing what lights them up?",
+            "bullet4":"is NOT financially free?",
+            "paras":"This is obviously rhetorical – that description probably fits most people.",
+            "para2":"and this mentality won’t bring good news to your social or romantic life, either.",
+            "para2bold":"In fact, the lowest paid jobs are often dominated by individuals who put their head down and work hard…",
+            "para4":"Don’t get me wrong, a great work ethic is important and admirable! But if hard work is what you’re aiming at, you’re actually missing the mark:",
+            "lastHead":"Your ability to influence other people’s feelings - CHARISMA - is a massive driver of results."
 
+        }
+        ],
+        "Person_1_Details": [
+            {
+                "name": "Person #1",
+                "img": "./entypoman.svg",
+                "point1": "Qualifications",
+                "point2": "Experience",
+                "point3": "Work ethic",
+                "point4": "No charisma",
+                "key":255555522,
+                "point5": "Poor relationships",
+                "point6": "No results",
+                "details1": "QUALIFICATIONS focus",
+                "detailsHeading": "NOT EFFECTIVE"
+            }
+        ],
+        "Person_2_Details": [
+            {
+                "name": "Person #2",
+                "img": "./work-team-of-two-men 1 (1).svg",
+                "point1": "Charisma",
+                "point2": "Dates",
+                "point3": "Influence",
+                "point4": "No charisma",
+                "key":2555555225855,
+                "point5": "Fulfilling career",
+                "point6": "Incredible relationships",
+                "details1": "RELATIONSHIPS focus",
+                "detailsHeading": "INCREDIBLY EFFECTIVE"
+            }
+        ],
+        "Persons_Headings":[
+            {
+                "Heading1": "It isn't just what you do. It's what others will do FOR you.",
+                "Heading2":"If you aren't charismatic, you will lose out in life to folks that (on paper) don't deserve it. But they will beat you. Again",
+                "Heading2Bold":"and again.",
+                "key":255555520002,
+                "Heading3":"It isn’t fair, but deep down we all know that this is how the world works. Charisma isn’t just about your social life… it bleeds into everything.",
+                "Heading4":"THAT is why I created Charisma University"
+            }
+        ],
+        "Persons_conatiner_Data": [
+            {
+                "Heading": "You can do this. You can learn this.",
+                "para": "The most important thing I can communicate to you right now is that all of this is learnable.",
+                "para2": "I’m not special, I promise.",
+                "para2Bold": "You can do it too.",
+                "key":25555552277777,
+                "para3": "In fact, once you have it all laid out in front of you in our step-by-step training, it’s simple. It’ll become habit.",
+                "para4": "You’ll be able to turn it on without even thinking about it.",
+                "para5": "Master these fundamental tools, and you’ll exude charisma and attract people you once thought impossible.",
+                "para6": "Sound too good to be true? I know, these results would be life-changing. Hang with me, because this is real… and",
+                "para6Bold": "our guarantee is ridiculous."
+            }
+        ],
+        "Charisma": [
+            {
+                "image1":"./CHARISMA.svg",
+                "image2":"./Group 68.svg",
+                "image3":"UNIVERSITY.svg",
+                "image4":"Group 70.svg"
+            }
+        ],
+        "Charismabox": [
+            {
+                "image": "./photo3.PNG",
+                "heading": "I've instantly had results that seem insane",
+                "para": "So many more meaningful connections, my friendships have improved, and my interactions with total strangers are a new, exciting fulfilling thing.",
+                "para2": "I want to recommend this to everyone! This should be in our basic education system",
+                "authoName": "David G"
+            }
+        ],
+        "charismaBanner":[
+            {
+                "Heading": "Yes.",
+                "HeadingColor":"You can do this.",
+                "para": "Maybe you think this all sounds great and would probably work for some people… but are you unsure that YOU could make the change?"
+            }
+        ],
+        "charismaBoard": [
+            {
+                "para": "If so, don’t feel bad… BUT isn’t that evidence of a confidence issue…  wink wink…?",
+                "para1": "Let me paint you a picture:",
+                "para2": "Maybe you are just beginning to develop your confidence… or maybe you already have charisma, but you just don’t know how to turn it on in the moments that matter most.",
+                "para3": "Wow... I need to see them again",
+                "para4": "Charisma University will take you step-by-step each leg of the journey, guiding you along so that you’re guaranteed to see massive gains.",
+                "para5": "Literally, GUARANTEED. (There’s more info on the guarantee below. Yes, it’s absurd.)",
+                "para6": "And Charisma University isn’t just access to the best charisma training content you can find…",
+                "para7": "It’s a lifetime membership to a constantly growing curriculum.",
+                "para8": "That means any other video courses we create for Charisma University – the contents of which you’ll decide – you get access to them free.",
+                "para8_bold":"Forever"
+                
+            }
+        ],
+        "card": [
+            {
+                "image": "./photo4.PNG",
+                "Heading": "Spectacularly valuable!",
+                "paragraph": "After going through all the YouTube breakdowns, I bought the course, and it's been great! THANK YOU. - Ryan F",
+                "button": "Join Charisma University"
+            }
+        ],
+        "Modules": [
+            {
+                "key":"55555225522",
+                "image":"./Group 60.svg",
+                "name": "MODULE 1",
+                "para": "Create amazing first impressions - every time.",
+                "BulletPoints": "The 4 Emotions",
+                "BulletPointsData":"that will guarantee an amazing first impression with anyone",
+                "BulletPoints2": "Body language coaching",
+                "BulletPointsData2":"to crush first impressions in just a few seconds",
+                "BulletPoints3": "What questions to ask",
+                "BulletPointsData3":"and, more importantly, how to know when you should NOT be asking questions",
+                "BulletPoints4": "How to exude positive energy",
+                "BulletPointsData4":"so people love talking with you",
+                "BulletPoints5": "How to answer common questions",
+                "BulletPointsData5":"like, “Where are you from?” and “What do you do?” in a way that captures attention"
+
+            }
+        ],
+        "Modules2": [
+            {
+                "key":"55555225526662",
+                "image":"./Group 60.svg",
+                "name": "MODULE 2",
+                "para": "Develop unshakeable confidence",
+                "BulletPoints": "How to build rock solid confidence",
+                "BulletPointsData":"that you can tap into in the situations you need it most",
+                "BulletPoints2": "Your Inner Game",
+                "BulletPointsData2":"exercises to eliminate self-doubt",
+                "BulletPoints3": "2-minute psychological hacks",
+                "BulletPointsData3":"Proven practices to go from nervous to confident in under 2 minutes",
+                "BulletPoints4": "Connect with high-powered mentors",
+                "BulletPointsData4":"Learn to connect with older, more successful business mentors and make them eager to help you get where they are",
+                "BulletPoints5": "Feel confident in groups and parties",
+                "BulletPointsData5":"without making a beeline for the bar and holding a drink at your chest all night"
+
+            }
+        ],
+        "Modules3": [
+            {
+                "key":"555552444425522",
+                "image":"./Group 60.svg",
+                "name": "MODULE 3",
+                "para": "Flow effortlessly in conversation",
+                "BulletPoints": "Two modes of conversation",
+                "BulletPointsData":"that will take you from initial small talk to genuine connection (without getting stuck talking about the weather)",
+                "BulletPoints2": "At-home exercises",
+                "BulletPointsData2":"so you never run out of things to say when speaking with someone in real life",
+                "BulletPoints3": "Start conversations",
+                "BulletPointsData3":"that keep themselves going",
+                "BulletPoints4": "Avoid those awkward moments of silence",
+                "BulletPointsData4":"where the other person politely excuses themselves",
+                "BulletPoints5": "Lead conversation",
+                "BulletPointsData5":"in a way that makes people respect you without feeling dominated"
+
+            }
+        ],
+        "Modules4": [
+            {
+                "key":"5555444445225522",
+                "image":"./Group 60.svg",
+                "name": "MODULE 4",
+                "para": "Engage people like a pro with story",
+                "BulletPoints": "Tell stories that get people hanging",
+                "BulletPointsData":"on your every word and have them asking “What happened next!?”",
+                "BulletPoints2": "Ordinary to extraordinary",
+                "BulletPointsData2":"How the best storytellers take normal, everyday occurrences and turn them into riveting stories",
+                "BulletPoints3": "The different types of story",
+                "BulletPointsData3":"and how to handle each one of them so that people stay hooked",
+                "BulletPoints4": "Tell YOUR story",
+                "BulletPointsData4":"in a way that intrigues people and gets them wanting to know more about you",
+                "BulletPoints5": "Expert breakdowns",
+                "BulletPointsData5":"from the world’s best storytellers, so you can model the greats"
+
+            }
+        ],
+        "Modules5": [
+            {
+                "key":"5555522551111122",
+                "image":"./Group 60.svg",
+                "name": "MODULE 5",
+                "para": "Get noticed",
+                "BulletPoints": "so that others go out of their way to introduce themselves to you",
+                "BulletPointsData":"Speak to command attention",
+                "BulletPoints2": "Hint: It’s NOT the words you’re saying",
+                "BulletPointsData2":"What to do with your body",
+                "BulletPoints3": "Eye, hand, and body positioning so you exude a confident energy and have a commanding presence",
+                "BulletPointsData3":"Our subconscious wiring",
+                "BulletPoints4": "How we are wired to subconsciously detect nervousness, and what you can do so people don’t see it (or mistake it) in you",
+                "BulletPointsData4":"so people love talking with you",
+                "BulletPoints5": "Precisely what to focus on",
+                "BulletPointsData5":"The most important pieces to focus on so you aren’t overwhelmed with trying to manage every little inflection and gesture"
+
+            }
+        ],
+        "Modules6": [
+            {
+                "key":"555552251114445588522",
+                "image":"./Group 60.svg",
+                "name": "MODULE 6",
+                "para": "Become a social leader and persuader",
+                "BulletPoints": "The 6 types of people",
+                "BulletPointsData":"and the most powerful ways to influence each of them",
+                "BulletPoints2": "Motivate others",
+                "BulletPointsData2":"so that they are excited about doing what you persuade them to do",
+                "BulletPoints3": "Quickly read anyone",
+                "BulletPointsData3":"and know exactly what triggers will influence them",
+                "BulletPoints4": "Quickly & easily build rapport and trust",
+                "BulletPointsData4":"so people love talking with you",
+                "BulletPoints5": "Sell your vision",
+                "BulletPointsData5":"How top leaders in the world get people to buy into their vision"
+
+            }
+        ]
     }
 ]

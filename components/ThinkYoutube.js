@@ -35,11 +35,11 @@ const ThinkYoutube = ({ newData }) => {
                         </div>
                         <div className="count2">
                             <div>
-                                <StarIcon color="action" style={{ width: '25px !important' }} />
+                                <StarIcon color="action" style={{ width: '25px !important', color: 'yellow !important' }} />
                                 <StarIcon color="primary" style={{ width: '30px !important', color: 'yellow !important' }} className="iconuser" />
                                 <StarIcon color="primary" style={{ width: '30px !important', color: 'yellow !important' }} className="iconuser" />
                                 <StarIcon color="primary" style={{ width: '30px !important', color: 'yellow !important' }} className="iconuser" />
-                                <StarHalfIcon color="action" style={{ width: '25px !important' }} className="iconuser" />
+                                <StarHalfIcon color="action" style={{ width: '25px !important', color: 'yellow !important' }} className="iconuser" />
                                 <div style={{ color: 'white', marginTop: '10px' }}>
                                     <CountUp style={{ color: 'white !important', fontSize: '25px', fontWeight: '800', paddingRight: '10px' }} start={el.reviewstartCount} end={el.reviewEndCount} duration={3.75} separator="," /><span style={{ fontSize: '25px', fontWeight: 'bold' }}>reviews</span>
                                 </div>

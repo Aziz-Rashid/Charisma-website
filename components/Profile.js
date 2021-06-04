@@ -17,7 +17,7 @@ const Profile = () => {
             <div className={togle === true ? "profile_box" : "profile_box2"} style={{ height: togle === false ? '800px' : '500px' }}>
                 <div className="profile_container">
                     <div >
-                        <img className="markgroup" src="./MaskGroup.png" alt="no image" />
+                        <img className="markgroup" src="./Mask Group.svg" alt="no image" />
                         <div className="boxx">
                             <h3 className="boxx1">So how did I eventually make the change?</h3>
                             <p className="boxx2">I mean, you know the story… now 4.5 million subscribers tune into our YouTube channel on confidence and charisma.</p>
@@ -30,7 +30,7 @@ const Profile = () => {
                     </div>
                     <div className="new">
                         <div>
-                            <img className="sign" src="./“.png" alt="no image" />
+                            <img className="sign" src="./“.svg" alt="no image" />
                         </div>
                         <h1 className="charlie">Hey i'm Charlie</h1>
                         <p className="charlie_para">Cofounder, Charisma on Command</p>
