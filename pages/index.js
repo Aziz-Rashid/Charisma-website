@@ -32,7 +32,7 @@ const Index = ({newData}) => {
     </>
   )
 };
-export const getStaticProps = async () => {
+export const getServerSideProps = async () => {
   const newData = (await import("../components/json/data.json")).default;
   return {
     props: { newData }
